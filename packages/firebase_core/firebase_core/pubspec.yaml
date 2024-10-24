@@ -15,11 +15,11 @@ environment:
 dependencies:
   firebase_core_platform_interface:
     git:
-      url: git@gitlab.com:BC865601/blockcorp/flutterfire.git
+      url: git@github.com:waheeda-glucare/flutterfire.git
       path: packages/firebase_core/firebase_core_platform_interface
   firebase_core_web:
     git:
-      url: git@gitlab.com:BC865601/blockcorp/flutterfire.git
+      url: git@github.com:waheeda-glucare/flutterfire.git
       path: packages/firebase_core/firebase_core_web
   flutter:
     sdk: flutter
