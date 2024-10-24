@@ -11,12 +11,12 @@ environment:
 dependencies:
   _flutterfire_internals:
     git:
-      url: git@gitlab.com:BC865601/blockcorp/flutterfire.git
+      url: git@github.com:waheeda-glucare/flutterfire.git
       path: packages/_flutterfire_internals
   collection: ^1.15.0
   firebase_core:
     git:
-      url: git@gitlab.com:BC865601/blockcorp/flutterfire.git
+      url: git@github.com:waheeda-glucare/flutterfire.git
       path: packages/firebase_core/firebase_core
   flutter:
     sdk: flutter
@@ -26,7 +26,7 @@ dependencies:
 dev_dependencies:
   firebase_core_platform_interface:
     git:
-      url: git@gitlab.com:BC865601/blockcorp/flutterfire.git
+      url: git@github.com:waheeda-glucare/flutterfire.git
       path: packages/firebase_core/firebase_core_platform_interface
   flutter_test:
     sdk: flutter
